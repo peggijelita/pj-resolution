@@ -1,0 +1,6 @@
+Rencana Konten PJ
+
+-Software Testing Manual
+-Software Testing Automation
+-Interview SQA 
+-VLog
