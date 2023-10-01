@@ -1,0 +1,8 @@
+Rencana Konten PJ
+
+-Software Testing Manual
+  *Google Sheets
+  *Trello
+-Software Testing Automation
+-Interview SQA 
+-VLog
