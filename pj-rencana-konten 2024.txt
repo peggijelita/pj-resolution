@@ -5,5 +5,8 @@ Rencana Konten PJ
   *Trello
 -Agile Testing
 -Software Testing Automation
+ *Playwright
+ *Jmeter
+-Python
 -Interview SQA 
 -VLog
