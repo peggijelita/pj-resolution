@@ -4,6 +4,10 @@ Rencana Konten PJ
   *Google Sheets
   *Trello
 -Agile Testing
+ *Scrum
 -Software Testing Automation
+ *Playwright
+ *Jmeter
+-Python
 -Interview SQA 
 -VLog
