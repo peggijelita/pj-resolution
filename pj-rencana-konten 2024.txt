@@ -6,7 +6,8 @@ Rencana Konten PJ
 -Agile Testing
  *Scrum
 -Software Testing Automation
- *Robot Framework
  *Playwright
+ *Jmeter
+-Python
 -Interview SQA 
 
