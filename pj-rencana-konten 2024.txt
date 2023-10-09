@@ -3,6 +3,7 @@ Rencana Konten PJ
 -Software Testing Manual
   *Google Sheets
   *Trello
+-Agile Testing
 -Software Testing Automation
 -Interview SQA 
 -VLog
